@@ -1,0 +1,7 @@
+#orderdisplay {background-color: #FFFFCC; }
+#section1 {background-color: #FFFFCC; visibility: hidden;}
+#section2 {background-color: #FFFFCC; visibility: hidden;}
+#section3 {background-color: #FFFFCC; visibility: hidden;}
+#section1 {position: absolute; top:150px;border:solid; width: 600px}
+#section2 {position: absolute; top:150px;border:solid; width: 600px}
+#section3 {position: absolute; top:150px;border:solid; width: 600px}
